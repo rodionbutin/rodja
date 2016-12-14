@@ -1,0 +1,9 @@
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-32?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-33?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-34?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-35?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-36?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-37?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-38?filter=allissues
+http://qa-lab.cloud-pro.ru:8081/projects/CT/issues/CT-39?filter=allissues
+

@@ -1,0 +1,19 @@
+ответы
+
+1. 11
+2. 4
+3. скрин
+4. скрин
+5. скрин
+6. 10248, 10254, 10269, 10297, 10320, 10333, 10358, 10359, 10372, 10378, 10397
+
+
+запросы
+
+1. select count (*) from customers where country = 'Germany';
+2. select count (*) from customers where contactname like '%e';
+3. insert into customers (customerid, customername, contactname) values (92, 'Rodja Ltd', 'Rodion Butin');
+4. update customers set contactname = 'Chandler Bing' where customerid=92;
+5. delete from customers where city = 'Nantes';
+select count (*) from customers where city = 'Nantes';
+6. SELECT orderid FROM Orders inner join Employees on employees.EmployeeID = orders.EmployeeID where firstname = 'Steven';
